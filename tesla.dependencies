@@ -1,6 +1,6 @@
 [
   {
-    "repository":   "ValidusOs-Devices/device_lge_g2-common",
+    "repository":   "Tesla-M-Devices/device_lge_g2-common",
     "target_path":  "device/lge/g2-common",
     "branch":       "mm6.0"
   },
